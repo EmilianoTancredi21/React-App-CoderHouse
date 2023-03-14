@@ -16,4 +16,7 @@
     color: rgb(255, 254, 254);
 }
 
+.navbarItem{
+    list-style: none;
+}
 

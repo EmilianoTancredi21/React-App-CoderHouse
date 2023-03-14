@@ -15,5 +15,9 @@ code {
 }
 
 body{
-  background-image: url(https://res.cloudinary.com/dg8awhbvm/image/upload/v1677342287/patronBK_w9ydez.jpg);
+  background-image: url(https://res.cloudinary.com/dg8awhbvm/image/upload/v1678300983/wallpaperflare.com_wallpaper_nxlhng.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
